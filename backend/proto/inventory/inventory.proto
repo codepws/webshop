@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+option go_package = ".;proto";
+ 
+//////////////////////////////
+// 创建用户信息（用户注册）
+service Inventory {
+    rpc GetInvDetailByGoodsId(GoodsId) returns (GoodsInvInfo); //获取库存信息
+    rpc SetInv(GoodsInvInfo) returns (google.protobuf.Empty); //设置库存
+    
+    rpc SellInv(SellInfo) returns (google.protobuf.Empty); //扣减库存
+    rpc RebackInv(OrderSnInfo) returns(google.protobuf.Empty); //库存归还
+}
+
+//请求：请求指定商品ID的商品库存
+message GoodsId {
+    uint32 goodsId = 1; //商品ID
+}
+
+message GoodsInvInfo {
+    uint32 goodsId = 1; //商品ID
+    uint32 nums = 2;   //商品数量
+}
+
+
+//请求：请求指定订单的商品列表的订单扣减/归还库存
+message SellInfo {
+    repeated GoodsInvInfo goodsInfo = 1;
+    string orderSn = 2; //订单号
+}
+
+message OrderSnInfo { 
+    string orderSn = 1; //订单号
+}
+ 
+ 

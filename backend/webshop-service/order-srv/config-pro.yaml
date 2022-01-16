@@ -1,0 +1,7 @@
+host: '127.0.0.1'
+port: 8848
+namespace: '7ae2d39a-6495-4072-a1e9-6046ffb3c9e3'
+user: 'nacos'
+password: 'nacos'
+dataid: 'order-srv.yaml'
+group: 'dev'

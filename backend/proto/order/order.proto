@@ -1,0 +1,128 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+option go_package = ".;proto";
+
+// 订单服务接口
+service Order {
+    
+    //======在线商城
+   
+
+    //======后台管理
+
+    //购物车
+    //rpc CartItemList(UserInfo) returns (CartItemListResponse); //获取用户的所有购物车信息
+    //rpc CreateCartItem(CartItemRequest) returns(ShopCartInfoResponse); //添加商品到购物车
+    //rpc UpdateCartItem(CartItemRequest) returns(google.protobuf.Empty); // 修改购物车条目信息
+    //rpc DeleteCartItem(CartItemRequest) returns(google.protobuf.Empty); //删除购物车条目
+
+    //订单
+    rpc CreateOrder(OrderRequest) returns (OrderInfoResponse); //新建订单
+    //rpc GetOrderList(OrderFilterRequest) returns (OrderListResponse); //订单列表
+    //rpc GetOrderDetail(OrderRequest) returns (OrderInfoDetailResponse); //订单的详情
+    //rpc UpdateOrderStatus(OrderStatus) returns(google.protobuf.Empty); //修改订单的支付状态
+
+}
+
+//=====================================================================
+//订单
+//
+
+// 用户ID
+message UserIDRequest {
+    uint32 id = 1;
+}
+
+// 订单信息
+message OrderRequest{
+    uint32 id       = 1;    //订单ID
+    uint32 userId   = 2;    //用户ID
+    string name     = 3;    //签收人
+    string mobile   = 4;    //联系电话
+    string address  = 5;    //收货地址
+    string post     = 6;    //留言
+}
+
+// 查询订单
+message OrderFilterRequest {
+    uint32 userId = 1;
+    uint32 pages = 2;
+    uint32 pagePerNums = 3;
+}
+
+//
+message OrderInfoResponse {
+    uint32 id = 1;
+    uint32 userId = 2;
+    string orderSn = 3;
+    string payType = 4;
+    string status = 5;
+    string post = 6;
+    double total = 7;
+    string address = 8;
+    string name = 9;
+    string mobile = 10;
+    string addTime = 11;
+}
+
+message OrderListResponse {
+    int32 total = 1;
+    repeated OrderInfoResponse data = 2;
+}
+
+ 
+
+message OrderItemResponse {
+    int32 id = 1;
+    int32 orderId = 2;
+    int32 goodsId = 3;
+    string goodsName = 4;
+    string goodsImage = 5;
+    float goodsPrice = 6;
+    int32 nums = 7;
+}
+
+message OrderInfoDetailResponse {
+    OrderInfoResponse orderInfo = 1;
+    repeated OrderItemResponse data = 2;
+}
+
+message OrderStatus {
+    string OrderSn = 1;
+    string status = 2;
+}
+   
+message CreateOrderResponse {
+    uint32 id = 1; 
+    string orderSn = 2;
+    uint32 total = 3;
+}
+
+
+//=====================================================================
+//购物车
+//
+
+message ShopCartInfoResponse {
+    int32 id = 1;
+    int32 userId = 2;
+    int32 goodsId = 3;
+    int32 nums = 4;
+    bool checked = 5;
+}
+
+message CartItemListResponse {
+    int32 total = 1;
+    repeated ShopCartInfoResponse data = 2;
+}
+
+message CartItemRequest {
+    int32 userId = 2;
+    int32 goodsId = 3;
+    int32 nums = 4;
+    bool checked = 5;
+} 
+
+ 

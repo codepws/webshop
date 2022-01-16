@@ -1,0 +1,16 @@
+{ 
+    "editor.links": false,
+    //go关闭超链接跳转
+    //go代码中ctrl左键import的package查看定义，但却跳转到了浏览器的https://pkg.go.dev/xxxx/xxxx中
+    //原因：
+    //vscode会默认识别超链接，然后在ctrl左键点击超链接时进行跳转
+    //go的package就是以超链接的形式引入的
+    //解决方法
+    //禁用vscode识别超链接的功能
+
+    //问题：module中的文件会重复列出，显得很杂乱
+    //要解决这个问题，需要让除了project工作区中project这个目录外其他都不显示，操作如下：
+     "files.exclude": {
+      "*": true
+  },
+}

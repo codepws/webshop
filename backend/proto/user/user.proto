@@ -1,0 +1,111 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+option go_package = ".;proto";
+
+service User {
+    
+    // 在线商城
+    
+    rpc RegisterUser(UserRegisterRequest) returns (UserBaseInfoResponse);  //添加用户
+    rpc LoginUser(UserLoginRequest) returns (UserBaseInfoResponse);       //查找用户
+
+    rpc UpdateUserInfo(UpdateUserFullInfo) returns (google.protobuf.Empty); // 更新用户
+    
+    
+    // 后台管理
+
+    rpc GetUserList(PageInfo) returns (UserListResonse); //用户列表
+    //rpc GetUserByMobile(MobileRequest) returns (UserInfoResponse); //通过mobile查询用户
+    //rpc GetUserById(IdRequest) returns (UserInfoResponse); //通过id查询用户
+    
+     
+    //rpc CheckPassWord (PasswordCheckInfo) returns (CheckResponse); //检查密码
+
+    rpc UnaryEcho (EchoRequest) returns (EchoResponse) {}     //普通一元方法，Unary API 就是普通的 RPC 调用
+
+}
+
+message EchoRequest {
+    string name = 1;
+}
+// The response message containing the greetings
+message EchoResponse {
+    string message = 1;
+}
+  
+
+message PasswordCheckInfo {
+    string password = 1;
+    string encryptedPassword = 2;
+}
+
+message CheckResponse {
+    bool success = 1;
+}
+
+message PageInfo {
+    uint32 pn = 1;
+    uint32 pSize = 2;
+}
+
+message MobileRequest {
+    string mobile = 1;
+}
+
+message IdRequest {
+    uint64 id = 1;
+}
+
+
+  
+//////////////////////////////
+// 创建用户信息（用户注册）
+message UserRegisterRequest {    //CreateBaseUserInfo
+    string nickname = 1;
+    string password = 2;
+    string mobile = 3;
+}
+
+//////////////////////////////
+// 查找用户（用户登录）
+message UserLoginRequest {
+    string mobile = 1;
+    string password = 2;
+}
+
+//////////////////////////////
+// 响应创建用户和查找用户 
+message UserBaseInfoResponse {
+    uint64 id = 1;
+    string nickname = 2; 
+    uint32 role = 3; 
+    //string head_url = 4;
+}
+
+//////////////////////////////
+// 更新用户信息
+message UpdateUserFullInfo {
+    uint64 id = 1;
+    string nickname = 2;
+    string gender = 3;
+    uint64 birthday = 4;
+}
+
+ 
+//////////////////////////////
+// 查找用户（用户）
+message UserFullInfoResponse {
+    uint64 id = 1;
+    string mobile = 2;
+    string nickname = 3;
+    uint64 birthday = 4;
+    uint32 gender = 5;
+    uint32 role = 6; 
+}
+
+message UserListResonse {
+    uint64 total = 1;
+    repeated UserFullInfoResponse data = 2;
+}

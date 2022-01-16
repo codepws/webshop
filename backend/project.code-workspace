@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			//"name": "webshop",
+			"path": "."
+		},
+        {
+			"name": "common",
+			"path": "./common"
+		},
+		{
+			"name": "user-web",
+			"path": "./webshop-api/user-web"
+		},
+		{
+			"name": "goods-web",
+			"path": "./webshop-api/goods-web"
+		},
+		{
+			"name": "order-web",
+			"path": "./webshop-api/order-web"
+		},
+		{
+			"name": "user-srv",
+			"path": "./webshop-service/user-srv"
+		}
+		,
+		{
+			"name": "goods-srv",
+			"path": "./webshop-service/goods-srv"
+		},
+		{
+			"name": "inventory-srv",
+			"path": "./webshop-service/inventory-srv"
+		}
+		,
+		{
+			"name": "order-srv",
+			"path": "./webshop-service/order-srv"
+		}
+	],
+	"settings": {}
+}

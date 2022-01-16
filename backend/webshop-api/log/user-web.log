@@ -1,0 +1,278 @@
+{"level":"debug","ts":1635233747.4788504,"caller":"api/sms.go:38","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234501.6299734,"caller":"api/sms.go:38","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234540.3229008,"caller":"api/sms.go:38","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234541.5172164,"caller":"api/sms.go:38","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234565.6515715,"caller":"api/sms.go:38","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234575.122396,"caller":"api/sms.go:38","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234582.4851587,"caller":"api/sms.go:38","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234625.8825521,"caller":"api/sms.go:38","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234757.4817114,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635234776.099448,"caller":"api/sms.go:38","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234913.404703,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635234917.4924946,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234917.5829108,"caller":"api/sms.go:76","msg":"手机号：13545678901, 类型：1 -> 验证码:461042"}
+{"level":"debug","ts":1635234927.2433884,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234927.3268552,"caller":"api/sms.go:76","msg":"手机号：13545678901, 类型：1 -> 验证码:988703"}
+{"level":"debug","ts":1635234928.2505543,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234928.382826,"caller":"api/sms.go:76","msg":"手机号：13545678901, 类型：1 -> 验证码:896448"}
+{"level":"debug","ts":1635234934.764523,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234934.8492439,"caller":"api/sms.go:76","msg":"手机号：13545678901, 类型：1 -> 验证码:379061"}
+{"level":"debug","ts":1635234935.5767117,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234935.6903865,"caller":"api/sms.go:76","msg":"手机号：13545678901, 类型：1 -> 验证码:964504"}
+{"level":"debug","ts":1635234937.2033265,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234937.3071666,"caller":"api/sms.go:76","msg":"手机号：13545678901, 类型：1 -> 验证码:143589"}
+{"level":"debug","ts":1635234938.082078,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234938.2106507,"caller":"api/sms.go:76","msg":"手机号：13545678901, 类型：1 -> 验证码:657734"}
+{"level":"debug","ts":1635234939.2749417,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234939.3912473,"caller":"api/sms.go:76","msg":"手机号：13545678901, 类型：1 -> 验证码:894527"}
+{"level":"debug","ts":1635234940.0998166,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635234940.2146149,"caller":"api/sms.go:76","msg":"手机号：13545678901, 类型：1 -> 验证码:322835"}
+{"level":"debug","ts":1635235207.2481298,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635235210.085232,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635235210.1810715,"caller":"api/sms.go:78","msg":"手机号：13545678901, 类型：1 -> 验证码:410766"}
+{"level":"debug","ts":1635235375.8556921,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635235550.2965767,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635235585.372862,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635235618.3691292,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635235634.4894433,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635235959.8625073,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635236167.1011689,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635236291.5860562,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635236295.254491,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635236311.3661366,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635236325.5902863,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635236381.4688723,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635236401.3966892,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635236421.2304173,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635236431.678034,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635236436.7432203,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635236445.3246534,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635236455.3116364,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635236455.4027781,"caller":"api/sms.go:78","msg":"手机号：13800138000, 类型：1 -> 验证码:235889"}
+{"level":"debug","ts":1635236464.7421677,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635236464.8412504,"caller":"api/sms.go:78","msg":"手机号：13800138000, 类型：1 -> 验证码:978295"}
+{"level":"debug","ts":1635236665.905624,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635236671.3034427,"caller":"api/user.go:54","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635236671.4020233,"caller":"api/user.go:74","msg":"[Register] 【短信验证码验证】不匹配： 本地： - 用户:111111"}
+{"level":"debug","ts":1635236812.5280108,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635236826.4803483,"caller":"api/sms.go:37","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635236826.5697021,"caller":"api/sms.go:78","msg":"手机号：13800138000, 类型：1 -> 验证码:460406"}
+{"level":"debug","ts":1635236842.6080632,"caller":"api/user.go:54","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635236842.6934066,"caller":"api/user.go:74","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 本地：111111 - 用户:"}
+{"level":"debug","ts":1635236878.7153149,"caller":"api/user.go:54","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635236878.851499,"caller":"api/user.go:74","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 本地：111111 - 用户:"}
+{"level":"debug","ts":1635236920.5577338,"caller":"api/user.go:54","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635236920.6417663,"caller":"api/user.go:74","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 本地：111111 - 用户:"}
+{"level":"debug","ts":1635238282.7525837,"caller":"user-web/main.go:85","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635245582.1638918,"caller":"user-web/main.go:104","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635245930.456759,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635245943.990894,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635245943.993243,"caller":"api/sms.go:77","msg":"手机号：13800138000, 类型：1 -> 验证码:989207"}
+{"level":"debug","ts":1635245961.4915874,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635245961.4937193,"caller":"api/user.go:73","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：989207 - 缓存验证码:"}
+{"level":"debug","ts":1635246061.9769554,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635246069.0783691,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635246069.0805953,"caller":"api/sms.go:78","msg":"短信验证码缓存地址: 127.0.0.1:6379"}
+{"level":"debug","ts":1635246069.0812407,"caller":"api/sms.go:79","msg":"手机号：13800138000, 类型：1 -> 验证码:619548"}
+{"level":"debug","ts":1635246320.7417066,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635246320.7449687,"caller":"api/user.go:73","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：111111 - 缓存验证码:"}
+{"level":"debug","ts":1635246511.8031647,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635246519.3238971,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635246519.3265786,"caller":"api/sms.go:85","msg":"短信验证码缓存地址: 127.0.0.1:6379"}
+{"level":"debug","ts":1635246519.3271372,"caller":"api/sms.go:86","msg":"手机号：13800138000, 类型：1 -> 验证码:951923"}
+{"level":"debug","ts":1635246705.3886576,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635246713.4774172,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635246713.4820335,"caller":"api/sms.go:88","msg":"短信验证码缓存地址: 127.0.0.1:6379"}
+{"level":"debug","ts":1635246713.4825752,"caller":"api/sms.go:89","msg":"手机号：13800138000, 类型：1 -> 验证码:559959"}
+{"level":"debug","ts":1635246761.3560925,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635246765.004607,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635246765.00905,"caller":"api/sms.go:88","msg":"短信验证码缓存地址: 127.0.0.1:6379"}
+{"level":"debug","ts":1635246765.0096226,"caller":"api/sms.go:89","msg":"手机号：13800138000, 类型：1 -> 验证码:025237"}
+{"level":"debug","ts":1635246775.1779115,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635246775.180134,"caller":"api/user.go:74","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：111111 - 缓存验证码:025237"}
+{"level":"debug","ts":1635246786.3535285,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635246814.5485327,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635246880.3829198,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635247032.975535,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635247034.964122,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635247077.3989308,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635247085.5728548,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635247085.5757506,"caller":"api/user.go:72","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：025237 - 缓存验证码:025237"}
+{"level":"debug","ts":1635247130.5307403,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635247130.5341837,"caller":"api/sms.go:88","msg":"短信验证码缓存地址: 127.0.0.1:6379"}
+{"level":"debug","ts":1635247130.5341837,"caller":"api/sms.go:89","msg":"手机号：13800138000, 类型：1 -> 验证码:234175"}
+{"level":"debug","ts":1635247139.322979,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635247139.3249211,"caller":"api/user.go:72","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：111111 - 缓存验证码:234175"}
+{"level":"debug","ts":1635247147.7367876,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635247147.7387736,"caller":"api/user.go:72","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：111111 - 缓存验证码:234175"}
+{"level":"debug","ts":1635247151.6975622,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635247151.6989942,"caller":"api/user.go:72","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：234175 - 缓存验证码:234175"}
+{"level":"debug","ts":1635247207.974182,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635247207.9761734,"caller":"api/user.go:72","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：234175 - 缓存验证码:234175"}
+{"level":"debug","ts":1635247310.1046715,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635247317.6676428,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635247317.6704707,"caller":"api/user.go:72","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：234175 - 缓存验证码:234175"}
+{"level":"debug","ts":1635247317.6721182,"caller":"api/user.go:102","msg":"[Register] 【生成封装JWT】 错误：{\"code\":0,\"msg\":\"Success\",\"data\":null,\"SysErr\":\"\"}"}
+{"level":"debug","ts":1635247358.2537687,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635247360.7083068,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635247360.7106137,"caller":"api/user.go:72","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：234175 - 缓存验证码:234175"}
+{"level":"debug","ts":1635247494.0235763,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635247496.6416402,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635247496.6432514,"caller":"api/user.go:72","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：234175 - 缓存验证码:234175"}
+{"level":"debug","ts":1635247496.6445794,"caller":"api/user.go:102","msg":"[Register] 【生成封装JWT】 错误：{\"code\":10006,\"msg\":\"加密用户密码时发生错误\",\"data\":null,\"SysErr\":\"\"}"}
+{"level":"debug","ts":1635247570.5480072,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635247582.4718814,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635247582.4745986,"caller":"api/user.go:72","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：234175 - 缓存验证码:234175"}
+{"level":"debug","ts":1635247955.337777,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635247959.4084542,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635247959.411839,"caller":"api/user.go:72","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：234175 - 缓存验证码:234175"}
+{"level":"debug","ts":1635248011.4524302,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635248013.8073506,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635248032.4542887,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635248050.0075338,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635248055.521882,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635248123.2654111,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635248125.552924,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635248136.559535,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635248136.5621166,"caller":"api/sms.go:86","msg":"短信验证码缓存地址: 127.0.0.1:6379"}
+{"level":"debug","ts":1635248136.5626817,"caller":"api/sms.go:87","msg":"手机号：13800138000, 类型：1 -> 验证码:780720"}
+{"level":"debug","ts":1635248158.134961,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635248158.1378138,"caller":"api/user.go:79","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：780720 - 缓存验证码:780720"}
+{"level":"debug","ts":1635248158.1384523,"caller":"api/user.go:118","msg":"【删除短信缓存】错误"}
+{"level":"debug","ts":1635248221.5654917,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635248223.863862,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635248229.1754365,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635248229.1780477,"caller":"api/sms.go:86","msg":"短信验证码缓存地址: 127.0.0.1:6379"}
+{"level":"debug","ts":1635248229.1785903,"caller":"api/sms.go:87","msg":"手机号：13800138000, 类型：1 -> 验证码: 046313"}
+{"level":"debug","ts":1635248231.5926838,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635248231.5947647,"caller":"api/user.go:79","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：111111 - 缓存验证码:046313"}
+{"level":"debug","ts":1635248245.7336571,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635248245.7363057,"caller":"api/user.go:79","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：046313 - 缓存验证码:046313"}
+{"level":"debug","ts":1635248245.7376525,"caller":"api/user.go:118","msg":"【删除短信缓存】错误"}
+{"level":"debug","ts":1635248245.7377996,"caller":"api/user.go:119","msg":"[Register] 【删除短信缓存】 错误：<nil>"}
+{"level":"debug","ts":1635248539.5922897,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635248542.2799976,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635248686.4787147,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635248689.3750277,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635248689.3778124,"caller":"api/user.go:76","msg":"[Register] 【短信缓存】获取错误：redis: nil"}
+{"level":"debug","ts":1635248718.0104637,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635248720.8377073,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635248720.8410687,"caller":"api/user.go:76","msg":"[Register] 【短信缓存】获取错误：redis: nil"}
+{"level":"debug","ts":1635249054.2454987,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635249060.1529784,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635249060.1559892,"caller":"api/user.go:77","msg":"[Register] 【短信缓存】验证码不存在：redis: nil"}
+{"level":"debug","ts":1635249172.6982863,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635249175.6399903,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635249175.6431732,"caller":"api/user.go:77","msg":"[Register] 【短信缓存】验证码不存在：redis: nil"}
+{"level":"debug","ts":1635249580.595888,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635249586.6124997,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635249586.616083,"caller":"api/sms.go:84","msg":"[Register] 【短信缓存】statusCmd不为nil"}
+{"level":"debug","ts":1635249586.6166062,"caller":"api/sms.go:90","msg":"短信验证码缓存地址: 127.0.0.1:6379"}
+{"level":"debug","ts":1635249586.6171591,"caller":"api/sms.go:91","msg":"手机号：13800138000, 类型：1 -> 验证码: 540296"}
+{"level":"debug","ts":1635249689.038389,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635249711.3668628,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1635249711.3705437,"caller":"api/sms.go:88","msg":"短信验证码缓存地址: 127.0.0.1:6379"}
+{"level":"debug","ts":1635249711.3711157,"caller":"api/sms.go:89","msg":"手机号：13800138000, 类型：1 -> 验证码: 612816"}
+{"level":"debug","ts":1635249740.3061259,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635249740.3079174,"caller":"api/user.go:87","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：111111 - 缓存验证码:612816"}
+{"level":"debug","ts":1635249745.1473856,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635249745.1495204,"caller":"api/user.go:87","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：612816 - 缓存验证码:612816"}
+{"level":"debug","ts":1635249745.1500795,"caller":"api/user.go:126","msg":"【删除短信缓存】 intCmd不为空: del 13800138000: 1"}
+{"level":"debug","ts":1635249958.7215254,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635249961.3307486,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635249961.3349886,"caller":"api/user.go:87","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：612816 - 缓存验证码:123456"}
+{"level":"debug","ts":1635249976.8892617,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"debug","ts":1635249976.8921368,"caller":"api/user.go:87","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：123456 - 缓存验证码:123456"}
+{"level":"debug","ts":1635249982.050503,"caller":"api/user.go:53","msg":"[Register] 【用户注册】"}
+{"level":"error","ts":1635249982.0530884,"caller":"api/user.go:77","msg":"[Register] 【短信缓存】验证码不存在：redis: nil"}
+{"level":"debug","ts":1635250024.3411107,"caller":"user-web/main.go:105","msg":"SetupConfig成功"}
+{"level":"debug","ts":1635251223.4855418,"caller":"user-web/main.go:115","msg":"SetupConfig成功"}
+{"level":"error","ts":1636715416.0375764,"caller":"api/user.go:82","msg":"[Register] 【短信缓存】获取错误：ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+{"level":"debug","ts":1636715545.376218,"caller":"api/user.go:66","msg":"[Register] 【短信缓存】Redis地址：127.0.0.1:6379"}
+{"level":"error","ts":1636715545.3829863,"caller":"api/user.go:86","msg":"[Register] 【短信缓存】获取错误：ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+{"level":"debug","ts":1636715584.3403037,"caller":"api/user.go:66","msg":"[Register] 【短信缓存】Redis地址：127.0.0.1:6379"}
+{"level":"error","ts":1636715584.3476324,"caller":"api/user.go:86","msg":"[Register] 【短信缓存】获取错误：ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+{"level":"debug","ts":1636716037.852554,"caller":"api/user.go:66","msg":"[Register] 【短信缓存】Redis地址：127.0.0.1:6379"}
+{"level":"error","ts":1636716037.8618703,"caller":"api/user.go:86","msg":"[Register] 【短信缓存】获取错误：ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+{"level":"debug","ts":1636716175.3002107,"caller":"api/user.go:66","msg":"[Register] 【短信缓存】Redis地址：127.0.0.1:6379"}
+{"level":"error","ts":1636716175.307341,"caller":"api/user.go:86","msg":"[Register] 【短信缓存】获取错误：ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+{"level":"debug","ts":1636716198.3237038,"caller":"api/user.go:66","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379"}
+{"level":"error","ts":1636716198.3321476,"caller":"api/user.go:86","msg":"[Register] 【短信缓存】获取错误：ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+{"level":"debug","ts":1636716415.234655,"caller":"api/user.go:66","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379 passowrd:123456"}
+{"level":"error","ts":1636716415.4232442,"caller":"api/user.go:86","msg":"[Register] 【短信缓存】获取错误：dial tcp: address 192.168.0.31:6379 passowrd:123456: too many colons in address"}
+{"level":"debug","ts":1636716623.386109,"caller":"api/user.go:66","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636716623.3905265,"caller":"api/user.go:75","msg":"Redis连接错误："}
+{"level":"error","ts":1636716623.3952084,"caller":"api/user.go:87","msg":"[Register] 【短信缓存】获取错误：ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+{"level":"debug","ts":1636716654.3689265,"caller":"api/user.go:66","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636716654.3740556,"caller":"api/user.go:75","msg":"Redis连接错误：ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+{"level":"error","ts":1636716654.377855,"caller":"api/user.go:87","msg":"[Register] 【短信缓存】获取错误：ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+{"level":"debug","ts":1636716817.5135543,"caller":"api/user.go:66","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636716817.520394,"caller":"api/user.go:77","msg":"Redis连接成功：PONG"}
+{"level":"debug","ts":1636716817.522635,"caller":"api/user.go:83","msg":"[Register] 【短信缓存】验证码不存在：redis: nil"}
+{"level":"debug","ts":1636717011.537489,"caller":"api/user.go:66","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636717011.5427928,"caller":"api/user.go:77","msg":"Redis连接成功：PONG"}
+{"level":"debug","ts":1636717011.5457351,"caller":"api/user.go:82","msg":"[Register] 【短信缓存】验证码不存在：redis: nil"}
+{"level":"debug","ts":1636717055.2793038,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1636717055.2865524,"caller":"api/sms.go:88","msg":"短信验证码缓存地址: 192.168.0.31:6379"}
+{"level":"debug","ts":1636717055.287155,"caller":"api/sms.go:89","msg":"手机号：13800138000, 类型：1 -> 验证码: 870601"}
+{"level":"debug","ts":1636717084.8467476,"caller":"api/user.go:66","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636717084.851216,"caller":"api/user.go:77","msg":"Redis连接成功：PONG"}
+{"level":"debug","ts":1636717084.8528595,"caller":"api/user.go:92","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：870601 - 缓存验证码:870601"}
+{"level":"debug","ts":1636717672.3271542,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1636717672.3341026,"caller":"api/sms.go:88","msg":"短信验证码缓存地址: 192.168.0.31:6379"}
+{"level":"debug","ts":1636717672.3346453,"caller":"api/sms.go:89","msg":"手机号：13800138000, 类型：1 -> 验证码: 577818"}
+{"level":"debug","ts":1636717686.5200472,"caller":"api/user.go:67","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636717686.5261421,"caller":"api/user.go:78","msg":"Redis连接成功：PONG"}
+{"level":"debug","ts":1636717686.5283086,"caller":"api/user.go:93","msg":"[Register] 【短信验证码验证】不匹配： 用户手机：13800138000 用户验证码：577818 - 缓存验证码:577818"}
+{"level":"error","ts":1636717686.549279,"caller":"api/user.go:109","msg":"[Register] 查询 【新建用户】失败: rpc error: code = Internal desc = 内部错误[Get] Error 1146: Table 'webshop.user' doesn't exist"}
+{"level":"debug","ts":1636717830.6558125,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1636717830.6650295,"caller":"api/sms.go:88","msg":"短信验证码缓存地址: 192.168.0.31:6379"}
+{"level":"debug","ts":1636717830.6655564,"caller":"api/sms.go:89","msg":"手机号：13800138000, 类型：1 -> 验证码: 457583"}
+{"level":"debug","ts":1636717840.264594,"caller":"api/user.go:67","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636717840.2711742,"caller":"api/user.go:78","msg":"Redis连接成功：PONG"}
+{"level":"debug","ts":1636717840.273358,"caller":"api/user.go:93","msg":"[Register] 【短信验证码验证】用户手机：13800138000 用户验证码：457583 - 缓存验证码:457583"}
+{"level":"error","ts":1636717840.3379772,"caller":"api/user.go:109","msg":"[Register] 查询 【新建用户】失败: rpc error: code = Unavailable desc = error reading from server: read tcp 192.168.0.31:61591->192.168.0.31:55347: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"level":"debug","ts":1636718235.7424877,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1636718235.750588,"caller":"api/sms.go:88","msg":"短信验证码缓存地址: 192.168.0.31:6379"}
+{"level":"debug","ts":1636718235.750588,"caller":"api/sms.go:89","msg":"手机号：13800138000, 类型：1 -> 验证码: 859620"}
+{"level":"debug","ts":1636718264.0666707,"caller":"api/user.go:67","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636718264.0714958,"caller":"api/user.go:78","msg":"Redis连接成功：PONG"}
+{"level":"debug","ts":1636718264.072631,"caller":"api/user.go:93","msg":"[Register] 【短信验证码验证】用户手机：13800138000 用户验证码：859620 - 缓存验证码:859620"}
+{"level":"error","ts":1636718264.0768976,"caller":"api/user.go:109","msg":"[Register] 查询 【新建用户】失败: rpc error: code = Internal desc = 内部错误[Exec] Error 1406: Data too long for column 'user_password' at row 1"}
+{"level":"debug","ts":1636718446.8542283,"caller":"api/user.go:67","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636718446.8602514,"caller":"api/user.go:78","msg":"Redis连接成功：PONG"}
+{"level":"debug","ts":1636718446.863133,"caller":"api/user.go:93","msg":"[Register] 【短信验证码验证】用户手机：13800138000 用户验证码：859620 - 缓存验证码:859620"}
+{"level":"error","ts":1636718446.867018,"caller":"api/user.go:109","msg":"[Register] 查询 【新建用户】失败: rpc error: code = Internal desc = 内部错误[Exec] Error 1406: Data too long for column 'user_password' at row 1"}
+{"level":"debug","ts":1636718508.6853797,"caller":"api/user.go:67","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636718508.6903925,"caller":"api/user.go:78","msg":"Redis连接成功：PONG"}
+{"level":"debug","ts":1636718508.6927106,"caller":"api/user.go:93","msg":"[Register] 【短信验证码验证】用户手机：13800138000 用户验证码：859620 - 缓存验证码:859620"}
+{"level":"error","ts":1636718508.6992602,"caller":"api/user.go:109","msg":"[Register] 查询 【新建用户】失败: rpc error: code = Internal desc = 内部错误[Exec] Error 1406: Data too long for column 'user_password' at row 1"}
+{"level":"debug","ts":1636718544.4449806,"caller":"api/user.go:67","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636718544.4498498,"caller":"api/user.go:78","msg":"Redis连接成功：PONG"}
+{"level":"debug","ts":1636718544.4521024,"caller":"api/user.go:93","msg":"[Register] 【短信验证码验证】用户手机：13800138000 用户验证码：859620 - 缓存验证码:859620"}
+{"level":"error","ts":1636718544.4606843,"caller":"api/user.go:109","msg":"[Register] 查询 【新建用户】失败: rpc error: code = Internal desc = 内部错误[Exec] Error 1292: Incorrect datetime value: '1636718544' for column 'add_time' at row 1"}
+{"level":"debug","ts":1636718848.077323,"caller":"api/user.go:67","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636718848.0832236,"caller":"api/user.go:78","msg":"Redis连接成功：PONG"}
+{"level":"debug","ts":1636718848.085531,"caller":"api/user.go:93","msg":"[Register] 【短信验证码验证】用户手机：13800138000 用户验证码：859620 - 缓存验证码:859620"}
+{"level":"debug","ts":1636718947.5083506,"caller":"api/user.go:67","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636718947.5139062,"caller":"api/user.go:78","msg":"Redis连接成功：PONG"}
+{"level":"debug","ts":1636718947.5155642,"caller":"api/user.go:93","msg":"[Register] 【短信验证码验证】用户手机：13800138000 用户验证码：222222 - 缓存验证码:222222"}
+{"level":"error","ts":1636718947.5196383,"caller":"api/user.go:109","msg":"[Register] 查询 【新建用户】失败: rpc error: code = NotFound desc = 用户已存在"}
+{"level":"debug","ts":1636725323.1207123,"caller":"api/chaptcha.go:18","msg":"获取图形验证请求"}
+{"level":"debug","ts":1636725470.8121767,"caller":"api/chaptcha.go:18","msg":"获取图形验证请求"}
+{"level":"error","ts":1636725665.7095604,"caller":"api/user.go:161","msg":"[Register] 查询 【用户登录】 失败: rpc error: code = Unknown desc = {\"code\":10001,\"msg\":\"内部服务器错误\",\"data\":null,\"SysErr\":\"Error 1054: Unknown column 'mobile' in 'where clause'\"}"}
+{"level":"error","ts":1636725823.6003237,"caller":"api/user.go:161","msg":"[Register] 查询 【用户登录】 失败: rpc error: code = Unknown desc = {\"code\":10001,\"msg\":\"内部服务器错误\",\"data\":null,\"SysErr\":\"Error 1054: Unknown column 'mobile' in 'where clause'\"}"}
+{"level":"error","ts":1636725920.4251223,"caller":"api/user.go:161","msg":"[Register] 查询 【用户登录】 失败: rpc error: code = Unknown desc = {\"code\":10001,\"msg\":\"内部服务器错误\",\"data\":null,\"SysErr\":\"Error 1054: Unknown column 'mobile' in 'where clause'\"}"}
+{"level":"error","ts":1636725969.6533937,"caller":"api/user.go:161","msg":"[Register] 查询 【用户登录】 失败: rpc error: code = Unknown desc = {\"code\":10001,\"msg\":\"内部服务器错误\",\"data\":null,\"SysErr\":\"Error 1054: Unknown column 'mobile' in 'where clause'\"}"}
+{"level":"error","ts":1636726046.781016,"caller":"api/user.go:161","msg":"[Register] 查询 【用户登录】 失败: rpc error: code = Unknown desc = {\"code\":10001,\"msg\":\"内部服务器错误\",\"data\":null,\"SysErr\":\"Error 1054: Unknown column 'mobile' in 'where clause'\"}"}
+{"level":"error","ts":1636726099.988158,"caller":"api/user.go:161","msg":"[Register] 查询 【用户登录】 失败: rpc error: code = Unknown desc = {\"code\":10001,\"msg\":\"内部服务器错误\",\"data\":null,\"SysErr\":\"Error 1054: Unknown column 'mobile' in 'where clause'\"}"}
+{"level":"debug","ts":1636726125.1774244,"caller":"api/sms.go:36","msg":"发送短信验证请求"}
+{"level":"debug","ts":1636726125.184313,"caller":"api/sms.go:88","msg":"短信验证码缓存地址: 192.168.0.31:6379"}
+{"level":"debug","ts":1636726125.1848693,"caller":"api/sms.go:89","msg":"手机号：13800138000, 类型：1 -> 验证码: 912680"}
+{"level":"debug","ts":1636726147.353866,"caller":"api/user.go:60","msg":"[Register] 【短信缓存】Redis地址：192.168.0.31:6379  passowrd:123456"}
+{"level":"debug","ts":1636726147.3588202,"caller":"api/user.go:71","msg":"Redis连接成功：PONG"}
+{"level":"debug","ts":1636726147.3604589,"caller":"api/user.go:86","msg":"[Register] 【短信验证码验证】用户手机：13800138000 用户验证码：912680 - 缓存验证码:912680"}
+{"level":"error","ts":1636726187.5420172,"caller":"api/user.go:161","msg":"[Register] 查询 【用户登录】 失败: rpc error: code = Unknown desc = {\"code\":10001,\"msg\":\"内部服务器错误\",\"data\":null,\"SysErr\":\"Error 1054: Unknown column 'mobile' in 'where clause'\"}"}
+{"level":"error","ts":1636726281.9742324,"caller":"api/user.go:161","msg":"[Register] 查询 【用户登录】 失败: rpc error: code = Unknown desc = {\"code\":10001,\"msg\":\"内部服务器错误\",\"data\":null,\"SysErr\":\"Error 1054: Unknown column 'mobile' in 'where clause'\"}"}
+{"level":"error","ts":1636726331.56588,"caller":"api/user.go:161","msg":"[Register] 查询 【用户登录】 失败: rpc error: code = Unknown desc = {\"code\":10001,\"msg\":\"内部服务器错误\",\"data\":null,\"SysErr\":\"missing destination name head_url in *proto.UserBaseInfoResponse\"}"}
+{"level":"debug","ts":1636726454.9070773,"caller":"api/chaptcha.go:18","msg":"获取图形验证请求"}

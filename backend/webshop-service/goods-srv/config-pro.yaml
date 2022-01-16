@@ -1,0 +1,7 @@
+host: '127.0.0.1'
+port: 8848
+namespace: '20702860-2928-4eac-a269-b89adb217ea7'
+user: 'nacos'
+password: 'nacos'
+dataid: 'goods-srv.yaml'
+group: 'dev'

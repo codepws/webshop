@@ -1,0 +1,146 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+
+option go_package = ".;proto";
+
+/*
+DROP TABLE IF EXISTS `category`;
+CREATE TABLE `category` 
+(
+	`id` INT(11) UNSIGNED NOT NULL AUTO_INCREMENT,
+	`name` VARCHAR(16) NOT NULL COMMENT '商品名称',
+	`parent_category_id` INT(11) UNSIGNED NULL COMMENT '父类别',	#自外键： 一级类别可以没有父类别  
+	`level` INT(1) NOT NULL DEFAULT 1 COMMENT '级别',
+	`is_tab` TINYINT(1) NOT NULL DEFAULT 0 COMMENT '是否显示在首页tab',
+	`update_time` timestamp NULL ON UPDATE CURRENT_TIMESTAMP COMMENT '更新时间',
+	`add_time` timestamp NOT NULL COMMENT '添加时间', 
+	PRIMARY KEY (`id`),
+	CONSTRAINT `fk_category_id` FOREIGN KEY(`parent_category_id`) REFERENCES `category`(`id`) 		#外键约束
+);
+*/
+service Goods {
+    
+    //======在线商城
+    //商品分类
+    rpc GetAllCategorysList(google.protobuf.Empty) returns(CategoryListResponse); //获取所有的分类
+    
+    //GetGoodListByFilter
+
+    //======后台管理
+
+
+    //======在线商城
+    //商品接口
+    //rpc GetGoodListByFilter(GoodsFilterRequest) returns(GoodsListResponse);
+
+    //现在用户提交订单有多个商品，你得批量查询商品的信息吧 
+    rpc GetGoodsListByIds(GoodsInfoByIdsRequest) returns(GoodsListResponse);    //批量获取商品信息  Batch
+    rpc GetGoodsDetailById(GoodInfoByIdRequest) returns(GoodsInfoResponse); //指定ID的商品详细信息
+ 
+
+}
+
+//=====================================================================
+
+//商品列表请求
+message CategoryListRequest {
+    int32 id = 1;
+    int32 level = 2;
+}
+
+
+//响应：商品分类信息
+message CategoryInfoResponse {
+    uint32 id = 1;
+    string name = 2;
+    uint32 parentCategory = 3;
+    uint32 level = 4;
+    bool isTab = 5;
+}
+
+ 
+//响应：商品分类列表
+message CategoryListResponse {
+    int32 total = 1;
+    repeated CategoryInfoResponse data = 2;
+    string jsonData = 3;
+}
+
+//响应：商品子分类列表
+message SubCategoryListResponse {
+    int32 total = 1;
+    CategoryInfoResponse info = 2;
+    repeated CategoryInfoResponse subCategorys = 3;
+}
+
+//响应：商品类别简介
+message CategoryBriefInfoResponse {
+    uint32 id = 1;
+    string name = 2;
+}
+
+
+///////////////////////////////////////////////////
+//品牌
+
+//响应：品牌信息
+message BrandInfoResponse {
+    uint32 id = 1;
+    string name = 2;
+    string logo = 3;
+}
+
+// 基于品类与品牌之间的多对多关系，互相查询 可根据品牌查询对应品类或者根据品类查询品牌
+message BrandCategoryResponse{
+    uint32 id = 1;
+    BrandInfoResponse brand = 2;
+    CategoryInfoResponse category = 3;
+}
+
+
+///////////////////////////////////////////////////
+//商品
+
+//请求：批量获取商品信息列表
+message GoodsInfoByIdsRequest {
+    repeated uint32 ids = 1;
+}
+
+//请求：指定ID商品详细信息
+message GoodInfoByIdRequest {
+    uint32 id = 1;
+}
+
+//响应：商品信息列表
+message GoodsListResponse {
+    uint32 total = 1;
+    repeated GoodsInfoResponse data = 2;
+}
+ 
+//响应：商品详细信息
+message GoodsInfoResponse {
+    uint32 id = 1;
+    uint32 categoryId = 2;
+    string name = 3;
+    string goodsSn = 4;
+    uint32 clickNum = 5;
+    uint32 soldNum = 6;
+    uint32 favNum = 7;
+    double marketPrice = 9;
+    double shopPrice = 10;
+    string goodsBrief = 11;
+    string goodsDesc = 12;
+    bool shipFree = 13;
+    repeated string images = 14;
+    repeated string descImages = 15;
+    string goodsFrontImage = 16;
+    bool isNew = 17;
+    bool isHot = 18;
+    bool forSale = 19;
+    uint64 addTime = 20;
+    CategoryBriefInfoResponse category = 21;
+    BrandInfoResponse brand = 22;
+}
+ 
+   
