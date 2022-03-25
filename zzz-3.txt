@@ -1,0 +1,167 @@
+
+ 熟练掌握MySQL、Redis储存方案及基本原理，并能够独立的设计优化数据库。
+
+熟悉掌握MySQL，并独立的设计和掌握常用性能优化技巧，以及Redis缓存NoSQL技术
+熟悉
+
+掌握GO Web API开发，熟悉前后端分离，熟悉restful，swagger等api开发思想/工具。
+
+熟悉Linux操作系统
+
+掌握TCP/IP、HTTP(S) 等网络通信技术，对tcp http https有一定理解
+熟悉Socket 网络编程
+
+
+
+
+
+6> 存储引擎
+
+k/v存储 etcd [精通]
+时序数据库influxdb [精通]
+分布式存储 Tidb [了解]
+熟悉SQL，并了解常用的SQL优化技巧、熟悉MySQL，并掌握常用性能优化技巧
+熟悉RocksDB、Memcached或Redis、MongoDB等NoSQL技术
+
+
+
+web框架
+
+gin [精通、熟读源码]
+echo [了解]
+Iris [了解]
+beego [x]
+<3> 微服务框架
+
+lstio [精通]
+
+
+
+MySQL教程 
+http://c.biancheng.net/view/2574.html C语言中文网
+
+Go语言圣经（中文版）
+http://books.studygolang.com/gopl-zh/ch1/ch1-07.html
+
+Gin 框架中文文档
+https://learnku.com/docs/gin-gonic/1.7
+
+go语言
+https://www.topgoer.com/
+
+go语言面试题
+https://www.topgoer.cn/docs/gomianshiti/gomianshiti-1ctsc9urhbg2u
+
+go-gin-api
+https://www.yuque.com/xinliangnote/go-gin-api/vmqgy2
+
+Go进阶
+https://mojotv.cn/2019/01/17/golang-signal-restart-deamom
+
+《Go语言学习之路》博客目录
+https://www.liwenzhou.com/posts/Go/golang-menu/
+
+Gin中文文档
+https://www.kancloud.cn/shuangdeyu/gin_book/949411
+
+可视化讲解 深度优先遍历(DFT)
+https://zhuanlan.zhihu.com/p/44655990
+
+【高并发与负载均衡】单点故障的答案——KeepAlived简介
+https://blog.csdn.net/asd13518662/article/details/115835336
+
+【高并发与负载均衡】LVS技术解析
+https://blog.csdn.net/asd13518662/article/details/115771350
+
+【高并发与负载均衡】LVS集群搭建实践
+https://blog.csdn.net/asd13518662/article/details/115919013
+
+(三)高并发负载均衡：LVS的DR模型试验搭建
+https://blog.csdn.net/qq_39308071/article/details/115101794?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-4.baidujs&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-4.baidujs
+
+
+redis（一主两从三哨兵模式搭建）记录
+https://www.cnblogs.com/yueminghai/p/10756780.html
+
+MySQL的进阶实战篇
+https://blog.csdn.net/javazejian/article/details/69857949
+
+多表查询
+https://www.cnblogs.com/bypp/p/8618382.html
+
+数据库查询SQL语句的时候如何写会效率更高?
+https://www.cnblogs.com/zhaosq/p/10579854.html
+
+【推荐】mysql联合 索引(复合索引)的探讨
+https://blog.csdn.net/bigtree_3721/article/details/87478706
+MySQL
+https://blog.4d4k.com/category/sql/mysql/page/2/
+
+（建议精读）HTTP灵魂之问，巩固你的 HTTP 知识体系
+https://juejin.cn/post/6844904100035821575#heading-28
+
+图解 ECDHE 密钥交换算法
+https://www.likecs.com/default/index/show?id=124371
+
+Redis 与 MySQL 双写一致性如何保证？
+https://mp.weixin.qq.com/s?__biz=MzAwNTQ4MTQ4NQ==&mid=2453578619&idx=1&sn=904b6840c3af5322dfb54e1c44277373&chksm=8cd1f619bba67f0f48cacdbfd7a94ee0ec6162c91c1a7407f682c7ad9f16509cf1bb0a27ccb7&scene=132#wechat_redirect
+业界难题-“跨库分页”的四种方案
+https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651959942&idx=1&sn=e9d3fe111b8a1d44335f798bbb6b9eea&chksm=bd2d075a8a5a8e4cad985b847778aa83056e22931767bb835132c04571b66d5434020fd4147f&scene=21#wechat_redirect
+
+Redis的面试连环炮
+https://gitee.com/zhangtailiu/LearningNotes/tree/master/%E6%A0%A1%E6%8B%9B%E9%9D%A2%E8%AF%95/%E9%9D%A2%E8%AF%95%E6%89%AB%E7%9B%B2%E5%AD%A6%E4%B9%A0/4_Redis%E7%9A%84%E9%9D%A2%E8%AF%95%E8%BF%9E%E7%8E%AF%E7%82%AE
+
+Mysql 夺命连环 13 问，你能抗住多少题？
+https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247486042&idx=2&sn=c7fa1e63353f3da7f977ac15398cf106&scene=21#wechat_redirect
+杭州某大厂：MySQL 连环问(第二弹)
+https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247489199&idx=1&sn=e4263dbded35ccf9b111e45d43a51cb1&chksm=c1627bd6f615f2c02e26c3f7a566c322f659625ca0690d30c89af2349c02b881513d89194354&cur_album_id=1717644697302597643&scene=189#rd
+
+Mysql加锁过程详解（1）-基本知识
+https://www.cnblogs.com/crazylqy/p/7611069.html
+
+基础架构：一条SQL查询语句是如何执行的？
+https://www.cnblogs.com/a-phper/p/10006362.html
+
+用go做web开发
+https://blog.csdn.net/weixin_43881017/category_10577678.html
+
+你还在代码里做读写分离么？要不试试这个中间件吧？ Gaea
+https://studygolang.com/articles/26217?fr=sidebar
+
+golang_development_notes
+https://github.com/guyan0319/golang_development_notes/blob/master/zh/preface.md
+
+常用限流算法的应用场景和实现原理
+https://zhuanlan.zhihu.com/p/338368004
+
+grpc go example gRPC Go 系列教程，配合以下文章食用更加哦。
+https://github.com/lixd/grpc-go-example
+
+C++超轻量限流器实现
+https://blog.csdn.net/weixin_42333737/article/details/106130057
+
+阿里面试官说: 请你设计一个支撑1000W并发的系统?
+https://blog.csdn.net/qq_42986622/article/details/120798595
+
+
+RocketMQ 10.顺序消息在高并发下的使用
+http://events.jianshu.io/p/c58d72eddb0e
+
+https://blog.csdn.net/sdmei/article/details/90646445
+
+
+消息队列选型：rocketmq or rabbitmq
+https://blog.csdn.net/sdmei/article/details/90646445
+
+面试被问到RocketMq，我懵了
+https://juejin.cn/post/6873844931945824270
+
+RabbitMQ入门5-消息确认模式和幂等性
+https://studygolang.com/articles/29434
+RabbitMQ系列文章
+https://www.cnblogs.com/vipstone/p/9295625.html
+
+
+
+
+
